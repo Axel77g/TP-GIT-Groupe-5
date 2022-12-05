@@ -27,6 +27,25 @@ Pour commencer à utilisé notre projet veillez à installer les packets utiles 
 npm install
 ```
 
+## Lancement
+
+Le projet utilise Vite JS
+Pour lancer le projet en local le serveur de dévéloppement il suffit de lancer la commande
+
+```bash
+npm run dev
+#ou
+yarn dev
+```
+
+Pour build l'application entrez
+
+```bash
+npm run build
+#ou
+yarn dev
+```
+
 ## Contributing
 
 Toutes les informations relatives à la contribution pour le projet se trouve dans le fichier `CONTRIBUTING.md`. Pour proposer de nouveaux changements, de protocole, ou de nouvelles normes, utilisez les templates disponible sur ce dépot.
@@ -36,3 +55,7 @@ Toutes les informations relatives à la contribution pour le projet se trouve da
 - [@Axel77g - Axel GODEFROYE](https://github.com/Axel77g)
 - [@SkyDogzz - Thomas STEPHAN](https://github.com/SkyDogzz)
 - [@Robiinf - Robin FAUCHERY](https://github.com/Robiinf)
+
+```
+
+```

@@ -1,3 +1,9 @@
-const test = 'test'
+const test = "test";
 
-console.log(test)
+console.log(test);
+
+function hello() {
+  console.log("hello");
+}
+
+hello();

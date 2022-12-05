@@ -1,9 +1,9 @@
 {
-  "name": "TP-GIT-Groupe-5",
+  "name": "tp-git-groupe-5",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:Axel77g/TP-GIT-Groupe-5.git",
-  "author": "Axel <axel77g@hotmail.com>",
+  "author": "Robin F Axel G Thomas S",
   "license": "MIT",
   "scripts": {
     "eslint-fix": "eslint --fix --ext .js ."

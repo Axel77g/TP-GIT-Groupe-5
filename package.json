@@ -6,7 +6,9 @@
   "author": "Robin F Axel G Thomas S",
   "license": "MIT",
   "scripts": {
-    "eslint-fix": "eslint --fix --ext .js ."
+    "build": "vite build",
+    "dev": "vite",
+    "eslint-fix": "eslint --fix --ext .js ./src"
   },
   "devDependencies": {
     "eslint": "^8.0.1",
@@ -14,5 +16,8 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0"
+  },
+  "dependencies": {
+    "vite": "^3.2.5"
   }
 }

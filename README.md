@@ -1,4 +1,3 @@
-
 # TP Git - Groupe 5
 
 <div style="display:flex; justify-content:space-around; align-items:center">
@@ -12,6 +11,13 @@ Matière : **Outils de versionning et pratique du code**
 
 Réferent : **Quentin Hermiteau**
 
+## Instalation
+
+Pour commencer à utilisé notre projet veillez à installer les packets utiles à celui-ci. Pour ce faire placez vous dans sur la branch `develop`
+
+```bash
+npm install
+```
 
 ## Auteurs
 

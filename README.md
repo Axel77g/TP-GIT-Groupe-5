@@ -6,7 +6,7 @@
 	</p>
 	<br />
 	<p>
-		<img src="https://img.shields.io/badge/stable-v1.0.0-blue.svg" alt="version" />
+		<img src="https://img.shields.io/badge/stable-v1.0.0-green.svg" alt="version" />
         <img src="https://img.shields.io/badge/prerelase-v1.0.0-blue.svg" alt="version" />
 	</p>
 </div>
@@ -29,7 +29,7 @@ npm install
 
 ## Contributing
 
-Toutes les informations relative a la contribution pour le projet se trouve dans le dossier `CONTRIBUTING.md`. Pour proposer de nouveaux changements de protocole ou de nouvelles normes, utilisez les templates disponible sur ce dépot.
+Toutes les informations relatives à la contribution pour le projet se trouve dans le fichier `CONTRIBUTING.md`. Pour proposer de nouveaux changements, de protocole, ou de nouvelles normes, utilisez les templates disponible sur ce dépot.
 
 ## Auteurs
 

@@ -36,6 +36,8 @@ Git
 A code editor
 Good coding practices (see below)
 
+Don't forget to launch the command ./syncRepo.sh before any push
+
 ## Style guide
 Please follow these good coding practices to contribute to the project:
 

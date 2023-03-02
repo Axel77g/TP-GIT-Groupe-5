@@ -36,6 +36,10 @@ Git
 A code editor
 Good coding practices (see below)
 
+Don't forget to launch the command ./syncRepo.sh before any push.
+
+To start contributing, you need to copy the content of the .hook folder into the .git/hook folder.
+
 ## Style guide
 Please follow these good coding practices to contribute to the project:
 

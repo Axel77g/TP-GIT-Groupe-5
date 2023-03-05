@@ -52,10 +52,6 @@ Toutes les informations relatives à la contribution pour le projet se trouve da
 
 ## Auteurs
 
-- [@Axel77g - Axel GODEFROYE](https://github.com/Axel77g)
+- [@Axel77g - Axel GODEFROY](https://github.com/Axel77g)
 - [@SkyDogzz - Thomas STEPHAN](https://github.com/SkyDogzz)
 - [@Robiinf - Robin FAUCHERY](https://github.com/Robiinf)
-
-```
-
-```

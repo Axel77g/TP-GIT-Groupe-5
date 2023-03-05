@@ -11,26 +11,27 @@
 	</p>
 </div>
 
-## A propos
+## ABOUT
 
-Ce repository constitue le TP final du semestre. Le but de ce TP est de créer un repository propre suivant les bonnes pratiques de code et de gestion de versions.
+This repository is the final project for the semester. The goal of this project is to create a clean repository following good code and version control practices.
 
-Matière : **Outils de versionning et pratique du code**
+Subject: Versioning Tools and Coding Practices
 
-Réferent : **Quentin Hermiteau**
+Referee: **Quentin Hermiteau**
 
 ## Installation
 
-Pour commencer à utilisé notre projet veillez à installer les packets utiles à celui-ci. Pour ce faire placez vous dans sur la branch `develop`
+To start using our project, make sure to install the necessary packages. To do this, go to the `develop` branch
 
 ```bash
 npm install
 ```
 
-## Lancement
+## Launch
 
-Le projet utilise Vite JS
-Pour lancer le projet en local le serveur de dévéloppement il suffit de lancer la commande
+The project uses Vite JS
+To launch the development server locally, simply run the command
+
 
 ```bash
 npm run dev
@@ -38,7 +39,7 @@ npm run dev
 yarn dev
 ```
 
-Pour build l'application entrez
+To build the application, type the command bellow
 
 ```bash
 npm run build
@@ -48,9 +49,9 @@ yarn dev
 
 ## Contributing
 
-Toutes les informations relatives à la contribution pour le projet se trouve dans le fichier `CONTRIBUTING.md`. Pour proposer de nouveaux changements, de protocole, ou de nouvelles normes, utilisez les templates disponible sur ce dépot.
+All information regarding contribution to the project is found in the `CONTRIBUTING.md` file. To propose new changes, protocols, or new standards, use the templates available in this repository.
 
-## Auteurs
+## Authors
 
 - [@Axel77g - Axel GODEFROY](https://github.com/Axel77g)
 - [@SkyDogzz - Thomas STEPHAN](https://github.com/SkyDogzz)
